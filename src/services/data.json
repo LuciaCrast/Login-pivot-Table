@@ -1,0 +1,68 @@
+[    
+{
+        "user" : "user01",
+        "money" : "1000$",
+        "downloads" : "5",
+        "totalMoney" : "1000$",
+        "totalDownloads" : "5",
+        "date": "00/00/0000",
+        "likes" : "6"
+    },
+    {
+        "user" : "user02",
+        "money" : "1000$",
+        "downloads" : "5",
+        "totalMoney" : "1000$",
+        "totalDownloads" : "5",
+        "date": "00/00/0000",
+        "likes" : "6"
+
+    },
+    {
+        "user" : "user03",
+        "money" : "1000$",
+        "downloads" : "5",
+        "totalMoney" : "1000$",
+        "totalDownloads" : "5",
+        "date": "00/00/0000",
+        "likes" : "6"
+        
+    },
+    {
+        "user" : "user04",
+        "money" : "1000$",
+        "downloads" : "5",
+        "totalMoney" : "1000$",
+        "totalDownloads" : "5",
+        "date": "00/00/0000",
+        "likes" : "6"
+    },
+    {
+        "user" : "user05",
+        "money" : "1000$",
+        "downloads" : "5",
+        "totalMoney" : "1000$",
+        "totalDownloads" : "5",
+        "date": "00/00/0000",
+        "likes" : "6"
+    },
+    {
+        "user" : "user06",
+        "money" : "1000$",
+        "downloads" : "5",
+        "totalMoney" : "1000$",
+        "totalDownloads" : "5",
+        "date": "00/00/0000",
+        "likes" : "6"
+    },
+    {
+        "user" : "user07",
+        "money" : "1000$",
+        "downloads" : "5",
+        "totalMoney" : "1000$",
+        "totalDownloads" : "5",
+        "date": "00/00/0000",
+        "likes" : "6"
+    }
+
+]
