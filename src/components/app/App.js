@@ -1,17 +1,17 @@
 import { HashRouter as Router, Switch, Route } from "react-router-dom";
-import "./App.css";
+import Home from "../home";
 import Principal from "../Principal";
-import Principaltable from "../PrincipalTable";
+import "./app.scss";
 
 function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/" exact component={Principal} />
-        <Route path="/game" children={Principaltable} />
+        <Route path="/" exact component={Home} />
+        <Route path="/principal" component={Principal} />
       </Switch>
     </Router>
   );
 }
 
-export default App;
+export { App };
