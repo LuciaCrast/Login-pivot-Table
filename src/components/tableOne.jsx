@@ -13,13 +13,13 @@ function TableOne() {
       <thead className="table__head">
         <tr className="table__row">
           <th className="table__cell">
-            Usuario/a <i class="fas fa-user-circle"></i>
+            Usuario/a <i className="fas fa-user-circle"></i>
           </th>
           <th className="table__cell">
-            Dinero Ganado <i class="fas fa-money-bill-wave"></i>
+            Dinero Ganado <i className="fas fa-money-bill-wave"></i>
           </th>
           <th className="table__cell">
-            Descargas <i class="fas fa-download"></i>
+            Descargas <i className="fas fa-download"></i>
           </th>
         </tr>
       </thead>

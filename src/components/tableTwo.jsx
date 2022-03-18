@@ -16,19 +16,19 @@ function TableTwo() {
       <thead className="table__head">
         <tr className="table__row">
           <th className="table__cell ">
-            Usuario/a <i class="fas fa-user-circle"></i>
+            Usuario/a <i className="fas fa-user-circle"></i>
           </th>
           <th className="table__cell">
-            Total Ganancias <i class="fas fa-coins"></i>
+            Total Ganancias <i className="fas fa-coins"></i>
           </th>
           <th className="table__cell">
-            Total Descargas <i class="fas fa-cloud-download-alt"></i>
+            Total Descargas <i className="fas fa-cloud-download-alt"></i>
           </th>
           <th className="table__cell">
-            Fecha <i class="fas fa-calendar-alt"></i>
+            Fecha <i className="fas fa-calendar-alt"></i>
           </th>
           <th className="table__cell">
-            Likes <i class="fas fa-thumbs-up"></i>
+            Likes <i className="fas fa-thumbs-up"></i>
           </th>
         </tr>
       </thead>
