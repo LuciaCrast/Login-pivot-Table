@@ -1,4 +1,4 @@
-# Tecnical Test Viafirma
+# Tecnical Test Vecpho
 
 Aplicación elaborada para la prueba técnica de Vecpho.
 
