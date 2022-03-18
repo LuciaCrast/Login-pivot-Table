@@ -1,0 +1,45 @@
+.table {
+  margin: auto;
+  background-color: white;
+  border-collapse: collapse;
+  border: solid 2px #099d8d;
+  font-family: "Roboto Serif", serif;
+  text-align: center;
+  font-size: 13px;
+
+  &__head {
+    background-color: #08aa9ad0;
+    color: white;
+    font-family: "Roboto Mono", monospace;
+    font-size: 14px;
+  }
+  &__row:hover td {
+    background-color: #10f6df;
+    color: white;
+    font-size: 20px;
+  }
+  &__cell {
+    padding: 2px;
+    border: solid 2px #099d8d;
+  }
+}
+
+tbody tr:nth-child(odd) {
+  background-color: white;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #08aa9a36;
+}
+
+@media (min-width: 768px) {
+  .table {
+    font-size: 18px;
+    &__head {
+      font-size: 20px;
+    }
+    &__cell {
+      padding: 7px;
+    }
+  }
+}
