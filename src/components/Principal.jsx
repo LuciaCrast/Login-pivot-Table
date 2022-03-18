@@ -8,18 +8,19 @@ import "./table.scss";
 function Principal() {
   const [selectTable, setSelectTable] = useState("1");
   return (
-    <body className="body">
+    <div className="container">
       <Header />
       <section className="principal">
         <div className="principal__content-select">
           <select
+            defaultValue={1}
             className="principal__select"
             onChange={(ev) => setSelectTable(ev.target.value)}
           >
             <option className="principal__option" value="">
               Seleccione Tabla
             </option>
-            <option className="principal__option" value="1" selected>
+            <option className="principal__option" value="1">
               Tabla Uno
             </option>
             <option className="principal__option" value="2">
@@ -35,7 +36,7 @@ function Principal() {
           ""
         )}
       </section>
-    </body>
+    </div>
   );
 }
 

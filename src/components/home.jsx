@@ -7,7 +7,7 @@ function Home() {
     ev.preventDefault();
   };
   return (
-    <body className="body">
+    <div className="container">
       <Header />
       <main className="main">
         <article className="article">
@@ -45,7 +45,7 @@ function Home() {
           </Link>
         </form>
       </main>
-    </body>
+    </div>
   );
 }
 export default Home;
