@@ -1,6 +1,6 @@
-# Tecnical Test Vecpho
+# Login & Pivot Table
 
-Aplicación elaborada para la prueba técnica de Vecpho.
+Tenemos un Login de diseño propio que nos lleva a una página con tablas dinámicas.
 
 ## Stack ![🛠️](https://fonts.gstatic.com/s/e/notoemoji/13.1.1/1f6e0_fe0f/32.png)
 
